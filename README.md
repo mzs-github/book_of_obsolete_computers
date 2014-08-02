@@ -24,6 +24,12 @@ book_of_obsolete_computers
 
 ### Spread 3 - The 1970s
 
+1. PDP11 - Joe Mabel - CC BY-SA 3.0 - LCM_-_DEC_PDP-11_-_02.jpg - http://commons.wikimedia.org/wiki/File:LCM_-_DEC_PDP-11_-_02.jpg
+2. PDP11 Panel - Dave Fischer - CC BY-SA 3.0 - Pdp-11-70-panel.jpg - http://commons.wikimedia.org/wiki/File:Pdp-11-70-panel.jpg
+3. VT100 - Jason Scott - CC Attribution 2.0 - http://commons.wikimedia.org/wiki/File:DEC_VT100_terminal.jpg
+4. Unix Beards at a PDP11 - Peter Hamer - CC SA 2.0 - http://commons.wikimedia.org/wiki/File:Ken_Thompson_(sitting)_and_Dennis_Ritchie_at_PDP-11_(2876612463).jpg
+
+
 ### Spread 4 - Microcomputers
 
 ### Spread 5 - Personal computers
