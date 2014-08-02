@@ -29,8 +29,12 @@ book_of_obsolete_computers
 3. VT100 - Jason Scott - CC Attribution 2.0 - http://commons.wikimedia.org/wiki/File:DEC_VT100_terminal.jpg
 4. Unix Beards at a PDP11 - Peter Hamer - CC SA 2.0 - http://commons.wikimedia.org/wiki/File:Ken_Thompson_(sitting)_and_Dennis_Ritchie_at_PDP-11_(2876612463).jpg
 
-
 ### Spread 4 - Microcomputers
+
+1. MITS Altair 8800b - Michael Holley - Public Domain - http://commons.wikimedia.org/wiki/File:Altair_Computer_Front_Panel.jpg?uselang=en-gb
+2. TRS-80 Coco 2 - Lamune - Public Domain - http://commons.wikimedia.org/wiki/File:TRS-80_Color_Computer_2-64K.jpg
+3. Apple II Plus - Hellis - CC-SA 2.5 - http://commons.wikimedia.org/wiki/File:Apple_II_plus.jpg
+4. TRS-80 Coco 3 - Lamune - Public Domain - http://commons.wikimedia.org/wiki/File:CoCo3system.jpg
 
 ### Spread 5 - Personal computers
 
