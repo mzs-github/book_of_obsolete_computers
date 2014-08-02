@@ -38,7 +38,15 @@ book_of_obsolete_computers
 
 ### Spread 5 - Personal computers
 
+1. IBM PC 5150 - Ruben de Rijcke - CC-SA 3.0 - http://commons.wikimedia.org/wiki/File:Ibm_pc_5150.jpg
+2. Mac - All About Apple Museum - CC-BY-SA-2.5-it - http://commons.wikimedia.org/wiki/File:Macintosh_128k_transparency.png
+3. Compaq Portable - Tiziano Garuti - Public Domain - http://en.wikipedia.org/wiki/File:Compaq_portable.jpg
+4. Floppy disks - George Chernilevsky - Public Domain - http://commons.wikimedia.org/wiki/File:Floppy_disk_2009_G1.jpg
+
+
 ### Spread 6 - The 1990s
+
+1. IBMPS1 - Kungfoocow369 - Public Domain - http://commons.wikimedia.org/wiki/File:IBMPS1.jpg
 
 ### Spread 7 - Servers
 
