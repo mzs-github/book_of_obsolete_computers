@@ -11,9 +11,11 @@ book_of_obsolete_computers
 
 2. Vacuum tubes - Dave Fischer - CC BY-SA 3.0 - Ibm-tube - http://commons.wikimedia.org/wiki/File:Ibm-tube.jpg?uselang=en-gb
 
-### Back cover
-
 ### Spread 1 - Early computers
+
+1. IBM 360 tape drives - Don DeBold - CC BY 2.0 - Colorful tape drives - http://www.flickr.com/photos/ddebold/5900040703/in/set-72157626987642061/
+
+2 & 3. Eniac - U. S. Army Photo - http://ftp.arl.mil/ftp/historic-computers/#rights
 
 ### Spread 2 - Parts of a computer
 
