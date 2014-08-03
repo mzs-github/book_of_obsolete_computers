@@ -12,8 +12,12 @@ book_of_obsolete_computers
 
 ### Spread 1 - Early computers
 
-1. IBM 360 tape drives - Don DeBold - CC BY 2.0 - Colorful tape drives - http://www.flickr.com/photos/ddebold/5900040703/in/set-72157626987642061/
-2. & 3. Eniac - U. S. Army Photo - http://ftp.arl.mil/ftp/historic-computers/#rights
+
+1. Eniac - U. S. Army Photo - http://ftp.arl.mil/ftp/historic-computers/#rights
+2. IBM System 360 Model 91 - NASA - Public Domain - http://en.wikipedia.org/wiki/File:360-91-panel.jpg
+3. IBM 1620 Front Panel - Todd Dailey - CC SA 2.0 - http://en.wikipedia.org/wiki/File:IBM_1620.jpg
+4. IBM 360 tape drives - Don DeBold - CC BY 2.0 - Colorful tape drives - http://www.flickr.com/photos/ddebold/5900040703/in/set-72157626987642061/
+5. HP Educational Basic Punch Card - GLMEW - CC-SA 3.0 - http://commons.wikimedia.org/wiki/File:HP_Educational_Basic_optical_mark-reader_card._Godfrey_Manning..jpg
 
 ### Spread 2 - Parts of a computer
 
@@ -46,7 +50,19 @@ book_of_obsolete_computers
 
 ### Spread 6 - The 1990s
 
-1. IBMPS1 - Kungfoocow369 - Public Domain - http://commons.wikimedia.org/wiki/File:IBMPS1.jpg
+1. CD-ROM - User Black and White -  CC SA 3.0 - http://commons.wikimedia.org/wiki/File:CD-ROM.png
+2. CD-R Spindle - J-Star - Public Domain - http://commons.wikimedia.org/wiki/File:CD-R_Spindle.jpg
+3. USR Sportster 14400 - Wilton Ramon de Carvalho Machado - CC SA 3.0 - http://commons.wikimedia.org/wiki/File:Fax_modem_antigo.jpg
+4. USR Courier V34 - Bortzmeyer - CC SA 3.0 - http://commons.wikimedia.org/wiki/File:Modem-usr-courier-v34-front-online.jpg
+5. IBMPS1 - Kungfoocow369 - Public Domain - http://commons.wikimedia.org/wiki/File:IBMPS1.jpg
+6. Tangerine iMac - Michael Gorzka - CC-By-SA 2.0 - http://www.flickr.com/photos/mac-minimalist/4242292736/in/photostream/
+7. Blueberry iBook - Carlos Vidal and Grm wnr - CC-By-2.0 - http://commons.wikimedia.org/wiki/File:Clamshell_iBook_G3.jpg
+8. 5 iBooks - Grm wnr - CC-SA 2.0 - http://commons.wikimedia.org/wiki/File:IBook_flavors.jpg
+
 
 ### Spread 7 - Servers
 
+1. UK National Archives Server Room - The National Archives - CC Attribution 3.0 - http://commons.wikimedia.org/wiki/File:A_view_of_the_server_room_at_The_National_Archives.jpg
+2. HP BladeSystem c7000 - Redline - CC SA 3.0 - http://commons.wikimedia.org/wiki/File:HP_c7000-1.jpg
+3. Server Rack - Jfreyre - CC SA 3.0 - http://commons.wikimedia.org/wiki/File:Rack001.jpg
+4. Inside 1U Server - Tobias Maier - Public Domain - http://commons.wikimedia.org/wiki/File:1U_rack_mount_server_cooling_system_fan_heat-sink.jpg
